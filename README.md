@@ -101,7 +101,7 @@ JackProxy特别适用于以下专业场景：
 
 1. **命令行参数**（推荐用于测试）：
    ```bash
-   ./jackproxy-pro -token "your-token-here"
+   ./jackproxy-pro -token your-token-here
    ```
 
 2. **独立文件**（适合敏感环境）：
