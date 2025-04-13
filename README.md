@@ -62,7 +62,7 @@ JackProxy特别适用于以下专业场景：
 4. **启动服务**
 
    ```bash
-   ./jackproxy-pro -token "your-token-here"
+   ./jackproxy-pro -token your-token-here
    ```
 
    启动成功后，系统将显示详细的状态信息，包括Token验证状态、代理池统计和服务监听地址。
