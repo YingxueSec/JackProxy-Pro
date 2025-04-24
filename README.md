@@ -45,7 +45,7 @@ JackProxy特别适用于以下专业场景：
 
 1. **获取授权**
    
-   JackProxy目前处于内测阶段，仅通过官方指定渠道提供授权Token。请加入官方微信交流群获取使用授权。关注后台回复【jackproxy】免费🆓获取token
+   JackProxy目前处于内测阶段，仅通过官方指定渠道提供授权Token。请加入官方微信交流群获取使用授权。关注后台回复【代理】免费🆓获取token
    ![扫码_搜索联合传播样式-白色版](https://github.com/user-attachments/assets/7e00147f-5611-42c4-a40a-3bae0abfebae)
 
 
